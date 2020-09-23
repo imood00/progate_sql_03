@@ -1,2 +1,2 @@
 # progate_sql_03
-progate SQL 04
+progate SQL 03
